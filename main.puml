@@ -7,6 +7,8 @@
 !global $TLS_COLOR = "#green"
 !global $ATO_COLOR = "FireBrick"
 !global $UNENCRYPTED_CONNECTION_COLOR = "#666666"
+!global $INHERITED_BG_COLOR = $COMPONENT_BG_COLOR
+!global $SHARED_BG_COLOR = $CONTAINER_BG_COLOR
 
 skinparam arrow {
   FontColor #black
